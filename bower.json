@@ -1,0 +1,22 @@
+{
+  "name": "seed-poke-wct",
+  "homepage": "https://github.com/mdwragg/predix-seed-poke",
+  "authors": [
+    "Martin Wragg <martin.wragg@ge.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "webcomponents.js#^0.7.20",
+    "web-component-tester": "^4.1.0"
+  }
+}

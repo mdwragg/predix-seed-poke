@@ -1,0 +1,23 @@
+{
+  "name": "seed-poke-wct",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wct.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdwragg/predix-seed-poke.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdwragg/predix-seed-poke/issues"
+  },
+  "homepage": "https://github.com/mdwragg/predix-seed-poke#readme",
+  "dependencies": {
+    "webdriverio": "^3.4.0"
+  }
+}
