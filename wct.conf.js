@@ -5,7 +5,7 @@ module.exports = {
       browsers: ['chrome']
     },
     sauce: {
-      disabled: true,
+      disabled: false,
       browsers: [{
           browserName: "microsoftedge",
           platform: "Windows 10",

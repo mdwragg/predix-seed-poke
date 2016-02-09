@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mdwragg/predix-seed-poke#readme",
   "dependencies": {
+    "selenium-standalone": "^4.9.0",
     "webdriverio": "^3.4.0"
   }
 }
